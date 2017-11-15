@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r \t<img src=\"https://github.com/TeamSYRY/Project-In-The-Know/blob/development/assets/images/logo3_small.png?raw=true\"><br>\r </div>",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lookatdmoon/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lookatdmoon/Bamazon/issues"
+  },
+  "homepage": "https://github.com/lookatdmoon/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^4.0.0",
+    "mysql": "^2.15.0"
+  }
+}
