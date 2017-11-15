@@ -37,7 +37,7 @@ The MySQL database that this app is connected will update with each successful c
 * ![Inquirer](https://www.npmjs.com/package/inquirer)
 
 ## What's Included
-The file structure provides directories and files that support this app.
+The file structure for the directories and files that support this application can be viewed below.
 
 ```
 Bamazon/
