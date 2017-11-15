@@ -1,4 +1,5 @@
-// Node Application bamazonCustomer.js 
+// bamazonCustomer.js 
+// Node + MySQL Skills Application Demonstation 
 // Mhirra Yung NU0814 Week 12 Homework 11/15/17
 
 // Declare required npm modules

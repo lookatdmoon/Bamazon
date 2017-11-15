@@ -1,6 +1,7 @@
-# Bamazon ![builtwithlove](http://forthebadge.com/images/badges/built-with-love.svg)
+# The Wonderful World of Bamazon!
+Built under the management of Mhirra Yung
+![builtwithlove](http://forthebadge.com/images/badges/built-with-love.svg)
 
---------------
 ## Summary
 Bamazon is an Amazon-like storefront.  The app will take in orders from customers and deplete stock from the store's inventory.
 
@@ -39,7 +40,7 @@ The MySQL database that this app is connected will update with each successful c
 ![Inquirer](https://www.npmjs.com/package/inquirer)
 
 ## What's Included
-Within the download archive you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+The file structure provides directories and files that support this app.
 
 ```
 Bamazon/
