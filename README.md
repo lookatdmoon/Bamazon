@@ -2,7 +2,7 @@
 
 
 <div align="center">
-	<img src="https://github.com/TeamSYRY/Project-In-The-Know/blob/development/assets/images/logo3_small.png?raw=true"><br>
+	<img src=""><br>
 </div>
 
 
